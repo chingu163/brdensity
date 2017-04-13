@@ -1,11 +1,8 @@
 # brdensity
 
-Author: Jae Ho Sohn (@chingu163)
+Practical Guide to Deep Learning for Computer Vision Research in Radiology
 
-Deep Learning Approach to Mammographic Breast Density Estimation using Tensorflow/Keras (with Convolutional Neural Network)
+This collection accompanies the 2017 RSNA educational exhibit abstract. The purpose of the exhibit is to provide very practical coding tutorial for setting up a convolutional neural network to solve a radiology question. We will be using a public mammography dataset to predict breast density. 
 
-This collection accompanies the RSNA abstract for "Practical Approach to using Tensorflow for Computer Vision Research in Radiology: a case example with mammography" It serves as a tutorial for physicians and researchers in medical field to have better understanding of how to actually use deep learning in clinical research.
-
-This project uses basic convolutional neural network structuer called VGG16. There are better pretrained models out there including ResNet, Inception, Xception, and etc. However, I want to focus on simple models first as an introduction.
-
+This project uses basic convolutional neural network structure called VGG16. There are better pretrained models out there including ResNet, Inception, Xception, and etc that will be explored as well. 
 
